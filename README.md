@@ -1,4 +1,4 @@
-#😚   General Physics: laboratory practice
+# 😚   General Physics: laboratory practice
 
 These laboratory works I have made in fourth term at MIPT for General Physics: Optics course.
 
